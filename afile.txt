@@ -12,8 +12,5 @@ developer 2 line 4
 line 6
 line 7
 line 8
-<<<<<<< HEAD
-This file was modified by developer 2
-=======
-This line was modified by developer 1
->>>>>>> 9cd66d74b77d8afdccbab600c68da20617870c7e
+This file was modified by developer 1 and 2
+
